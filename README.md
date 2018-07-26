@@ -7,9 +7,9 @@ Tech Pills every Tuesday, Wednesday and Thursday.
 --------------
 
 _6th August Tue_
-* __webpack for react (dev & production modes)__ by @Lazyapply
+* __Webpack for react (dev & production modes)__ by @Lazyapply
 
-_2st August Thu_
+_2nd August Thu_
 * TBD
 
 _1st August Wed_
