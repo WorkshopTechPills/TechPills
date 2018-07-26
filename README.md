@@ -6,16 +6,18 @@ Tech Pills every Tuesday, Wednesday and Thursday.
 
 --------------
 
+_6th August Tue_
+* __webpack for react (dev & production modes)__ by @Lazyapply
 
 _2st August Thu_
 * TBD
 
 _1st August Wed_
-* TBD
-
-_31st July Tue_
 * __Top 7 Ways to Debug Angular 4 Apps__
 https://www.youtube.com/watch?v=gxixM90vo9Y
+
+_31st July Tue_
+* __Pipelines with bitbucket: from merge to deploy__ by @Lazyapply
 
 _26th July Thu_
 * __VS Code Top-Ten Pro Tips__
