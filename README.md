@@ -13,7 +13,7 @@ _6th August Tue_
 * __Webpack for react (dev & production modes)__ by @Lazyapply
 
 _2nd August Thu_
-* __How to debbug in production__ by @danielkocsan
+* __How to debug in production__ by @danielkocsan
 
 _1st August Wed_
 * __Pipelines with bitbucket: from merge to deploy__ by @Lazyapply
