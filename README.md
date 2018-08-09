@@ -6,8 +6,13 @@ Tech Pills every Tuesday, Wednesday and Thursday.
 
 --------------
 
+_8th August Thu_
+* __The power of Headless Chrome and browser automation (Google I/O '18) - Part 1__
+https://www.youtube.com/watch?v=lhZOFUY1weo
+
 _7th August Wed_
-* TBD
+* __Ivy template rendering in Angular 6__
+https://www.youtube.com/watch?v=dIxknqPOWms
 
 _6th August Tue_
 * __Webpack for react (dev & production modes)__ by @Lazyapply
