@@ -7,7 +7,7 @@ Tech Pills every Tuesday, Wednesday and Thursday.
 --------------
 
 _10th August Fri_
-* __The power of Headless Chrome and browser automation (Google I/O '18) - Part 1__
+* __The power of Headless Chrome and browser automation (Google I/O '18) - Part 2__
 https://www.youtube.com/watch?v=lhZOFUY1weo
 
 _9th August Thu_
