@@ -1,0 +1,8 @@
+{
+    "name": "Code Splitting App",
+    "description": "This app helps you to split your code",
+    "icons": [{
+      "src": "images/icon.png",
+      "sizes": "192x192"
+    }]
+  }
